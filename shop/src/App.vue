@@ -1,6 +1,6 @@
 <template>
-    <div class="start">
-      работает!
+    <div class="App">
+  
       <v-main-wrapper/>
     </div>
 </template>
@@ -17,7 +17,7 @@
 </script>
 
 <style>
-.start {
+.App {
       display: flex;
     justify-content: center;
     align-items: center;
