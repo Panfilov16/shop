@@ -8,7 +8,7 @@
 <script>
    import vMainWrapper from "./components/v-main-wrapper.vue"
     export default {
-        name: 'app',
+        name: 'App',
         components: {
             vMainWrapper
         }
@@ -18,7 +18,7 @@
 
 <style>
 .App {
-      display: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     max-width: 900px;
